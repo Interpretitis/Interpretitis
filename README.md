@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Interpretitis/Interpretitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# SUMMARY
+BASc in Electrical Engineering, Systems Engineering Specialization (2023)\
+MEng in Electrical and Computer Engineering (2026)\
