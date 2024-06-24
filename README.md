@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # SUMMARY
 BASc in Electrical Engineering, Systems Engineering Specialization (2023)\
-MEng in Electrical and Computer Engineering (2026)\
+MEng in Electrical and Computer Engineering (2026)
